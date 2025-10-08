@@ -146,7 +146,7 @@ header {
   grid-area: 2/2/3/4;
   display: grid;
   grid-template-rows: 5rem 2fr;
-  grid-template-columns: 2fr 1fr 1fr;
+  grid-template-columns: 1fr 2fr 1fr;
 
   & > p {
     &:first-of-type {
